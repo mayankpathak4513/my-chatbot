@@ -13,9 +13,22 @@ You can directly check the Chatbot on your browser.
 [Click here to check the chatbot in Browser](https://tinyurl.com/y7fm535n)
 
 
+### Some Results of the Chatbot is displayed below 
+---
+
+![Sample_image_1](Sample_image_1.png)
+
+---
+
 
 Click or copy the link provided above to find my chatbot on the flower recommendation and buying website.
 It is best recommended to chat with chatbot in the flower website store.
+
+---
+
+![](Sample_Image_2.png)
+
+---
 
 ### Check chatbot on the website
 [Click here to check the chatbot at flower website](https://mayankpathak.intelaedu.com/)
@@ -25,7 +38,7 @@ It is best recommended to chat with chatbot in the flower website store.
 
 Refer the cognitive class ai powered by IBM to find and build your own chatbot [https://cognitiveclass.ai/](https://cognitiveclass.ai/) browse above link to find the course.It doesn't require any coding part, only the mere understanding of the system and platform will help you to develop the Chatbot Easily.
 
-#### If you have any suggestion to make then kindly reach at [mailto:mayankpathak4513@gmail.com](mayankpathak4513@gmail.com)
+#### If you have any suggestion to make then kindly reach at [mayankpathak4513@gmail.com](mayankpathak4513@gmail.com)
 
 #### Thanks for Reading.
 
