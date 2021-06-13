@@ -38,7 +38,7 @@ It is best recommended to chat with chatbot in the flower website store.
 
 Refer the cognitive class ai powered by IBM to find and build your own chatbot [https://cognitiveclass.ai/](https://cognitiveclass.ai/) browse above link to find the course.It doesn't require any coding part, only the mere understanding of the system and platform will help you to develop the Chatbot Easily.
 
-#### If you have any suggestion to make then kindly reach at [mayankpathak4513@gmail.com](mayankpathak4513@gmail.com)
+#### If you have any suggestion to make then kindly reach at [mayankpathak4513@gmail.com](mailto:mayankpathak4513@gmail.com)
 
 #### Thanks for Reading.
 
